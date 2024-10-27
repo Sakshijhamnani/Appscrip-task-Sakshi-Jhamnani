@@ -1,0 +1,40 @@
+.sidebar {
+    padding: 16px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 250px; 
+  }
+  
+  .filterGroup {
+    margin-bottom: 15px;
+  }
+  
+  .dropdown {
+    cursor: pointer;
+    background-color: #e7e7e7;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: #d0d0d0;
+    }
+  }
+  
+  .checkboxContainer {
+    margin-top: 5px;
+    padding-left: 10px;
+  
+    
+    
+  }
+  
+  .checkboxLabel {
+    display: block;
+    cursor: pointer;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
